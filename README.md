@@ -1,17 +1,27 @@
-# 📜 Certificates
+# 📜 My Certificates
 
-Welcome to my certificates repository! This repository contains my certifications, achievements, and competition certificates in programming and technology.
-
-## 🏆 Competition Certificates
-
-| Certificate | Organizer | Year |
-|-------------|-----------|------|
-| [Toprank 2026 – Logic Code Live](./Logic-Code-Live-Toprank-2026-Certificate.pdf) | Logic Code Live | 2026 |
+Welcome to my certificates repository! This repository showcases my certifications, achievements, and competition participation in programming and technology.
 
 ---
 
-### 📌 About
+## 🏆 Toprank 2026 – Logic Code Live
 
-This repository serves as a collection of my learning journey, technical achievements, and competition participation.
+<a href="./Sertifikat-SERT-202607-AIDNBW.pdf">
+  <img src="./toprankcerti.png" alt="Toprank 2026 – Logic Code Live Certificate" width="850">
+</a>
 
-⭐ Thank you for visiting my GitHub profile!
+### Certificate Details
+
+| Certificate | Organizer | Year | File |
+|-------------|-----------|------|------|
+| Toprank 2026 – Logic Code Live | Logic Code Live | 2026 | [View PDF](./Sertifikat-SERT-202607-AIDNBW.pdf) |
+
+---
+
+## 📌 About
+
+This repository contains my certificates, achievements, and competition participation as part of my continuous learning journey in programming and technology.
+
+---
+
+⭐ **More certificates will be added in the future.**
